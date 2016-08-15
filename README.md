@@ -11,6 +11,8 @@
 - C. J. Date *SQL and relational theory: how to write accurate SQL code* (O'Reilly)
 - Alan Beaulieu *Learning SQL* (O'Reily)
 - Regina Obe & Leo Hsu *PostgreSQL: Up and Running* (O'Reilly)
+- [A beginners guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
+- [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Elasticsearch
 
