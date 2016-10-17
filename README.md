@@ -65,6 +65,10 @@
 - Paul Teetor *R Cookbook* (O'Reilly)
 - Winston Chang *R Graphics Cookbook* (O'Reilly)
 
+## BigQuery
+
+- J. Tigani & S. Naidu *Google BigQuery Analytics* (Wiley)
+
 ## Others
 
 - John Ferguson Smart *Jenkins: the definitive guide* (O'Reilly)
